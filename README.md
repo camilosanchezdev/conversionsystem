@@ -9,10 +9,10 @@ Conversion System (Decimal, Binary, Octal, Hexadecimal)
 
 # Images
 <p align="center">
-  <img src="conversionsystem/Images/image1.png">
+  <img width="400px" src="Images/image1.png">
 </p>
 <p align="center">
-  <img src="conversionsystem/Images/image1.png">
+  <img width="400px" src="Images/image1.png">
 </p>
 
 # Download
